@@ -1,0 +1,20 @@
+.container {
+  background-color: #000;
+}
+#span {
+  color: #fff;
+  font-size: 4rem;
+  display: flex;
+  justify-content: center;
+}
+.container .Independence {
+  background: #ff9a2f;
+  background: linear-gradient(
+    to bottom,
+    #ff9a2f 41%,
+    #ffffff 54%,
+    #0a8901 100%
+  );
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
